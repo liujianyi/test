@@ -27,4 +27,5 @@ npm run e2e
 npm test
 ```
 # 123大撒大撒但
+# 加入了package.json 和 package-lock.json文件
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
