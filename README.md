@@ -1,6 +1,6 @@
-# vue-admin
+# websocket
 
-> A vue.JS project
+> A socket io project
 
 ```bash
 
